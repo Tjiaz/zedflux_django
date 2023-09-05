@@ -156,14 +156,14 @@ h6 {
 #  Get Startet Button
 --------------------------------------------------------------*/
 .get-started-btn {
-  color: #4785db;
+  color: #fff;
   border-radius: 4px;
   padding: 7px 25px 8px 25px;
   white-space: nowrap;
   transition: 0.3s;
   font-size: 14px;
   display: inline-block;
-  border: 2px solid #0f3f79;
+  border: 2px solid #fff;
 }
 
 .get-started-btn:hover {
